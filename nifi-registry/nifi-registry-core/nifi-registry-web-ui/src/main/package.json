@@ -72,7 +72,7 @@
         "zone.js": "0.9.0"
     },
     "devDependencies": {
-        "@babel/core": "7.4.4",
+        "@babel/core": "7.4.5",
         "@babel/preset-env": "7.4.4",
         "@babel/runtime": "7.4.4",
         "@typescript-eslint/eslint-plugin": "1.6.0",
