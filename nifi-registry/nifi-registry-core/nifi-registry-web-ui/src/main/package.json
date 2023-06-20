@@ -113,7 +113,7 @@
         "style-loader": "0.23.1",
         "stylelint": "13.3.3",
         "stylelint-config-standard": "18.2.0",
-        "terser-webpack-plugin": "2.3.1",
+        "terser-webpack-plugin": "2.3.2",
         "ts-loader": "5.4.4",
         "typescript": "3.3.4000",
         "url-loader": "1.1.2",
