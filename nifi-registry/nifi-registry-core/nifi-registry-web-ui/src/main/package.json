@@ -82,7 +82,7 @@
         "cache-loader": "3.0.0",
         "compression-webpack-plugin": "3.0.1",
         "css-loader": "2.1.1",
-        "dtsgenerator": "2.0.6",
+        "dtsgenerator": "2.0.7",
         "eslint": "5.14.1",
         "eslint-config-airbnb": "17.1.0",
         "eslint-plugin-import": "2.16.0",
