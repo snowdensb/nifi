@@ -22,7 +22,7 @@
     <artifactId>nifi-vault-utils</artifactId>
     <properties>
         <spring.version>5.3.9</spring.version>
-        <spring.vault.version>2.3.2</spring.vault.version>
+        <spring.vault.version>2.3.3</spring.vault.version>
     </properties>
     <dependencyManagement>
         <dependencies>
