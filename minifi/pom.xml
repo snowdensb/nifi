@@ -596,7 +596,7 @@ limitations under the License.
             <dependency>
                 <groupId>commons-net</groupId>
                 <artifactId>commons-net</artifactId>
-                <version>3.3</version>
+                <version>3.13.0</version>
             </dependency>
             <dependency>
                 <groupId>com.jcraft</groupId>
