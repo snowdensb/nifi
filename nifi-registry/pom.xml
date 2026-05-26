@@ -37,7 +37,7 @@
     </modules>
     <properties>
         <jax.rs.api.version>2.1</jax.rs.api.version>
-        <spring.boot.version>2.5.2</spring.boot.version>
+        <spring.boot.version>3.5.11</spring.boot.version>
         <spring.version>5.3.9</spring.version>
         <spring.security.version>5.5.1</spring.security.version>
         <flyway.version>6.5.7</flyway.version>
